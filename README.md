@@ -7,7 +7,7 @@
 ## About The App :
 **Deepresion. Loneliness. Stress.** 😞</br>
 This words have become common in our society and negative emotions that is taking away the spark and brightness present in us especially suring the lockdown period. It makes the person feel low and depressed making self love much more important. 🧍:heart: </br>
-**Miphy** is an application made for the community that includes all of us. It is an application that gives you a way to share your thoughts freely with anyone in a safe space to get relaxed and feel loved. It also provides you with nature's playlist to relax you and help you meditate. It also has a memory game to relax you with motivational quotes to motivate you.  </br>
+**Miphy** is an application made for the community that includes all of us. It is an application that gives you a way to be with nature. It provides you with nature's playlist to relax you and help you meditate. It also has a memory game to relax you with motivational quotes to motivate you.  </br>
 There are two channels available : </br>
 1) **Music** : It has a music player that contains nature's sounds to relax you and calm your mind along iwth motivational quotes to charge you up while you calm your negative thoughts. 🧑‍🤝‍🧑
 <p align="center">
