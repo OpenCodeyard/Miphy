@@ -1,0 +1,33 @@
+.homepage {
+    width: 500px;
+    height: 600px;
+    padding: 2rem;
+    background: rgb(33, 94, 151);
+background: linear-gradient(129deg, rgb(72, 133, 224) 0%, rgb(163, 131, 221) 35%, rgb(87, 201, 216) 100%);
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    border-radius: 5px;
+    button {
+      justify-items: center;
+      flex-direction: column;
+.buttons{
+width:98%;
+}
+    button {
+      width:300px;
+      font-size: 3rem;
+      padding: 0.5rem 1rem 0.5rem 1rem;
+      width: auto;
+      border: none;
+      background-color: #f5cf9e;
+      border-radius: 5px;
+      margin-right: 35px;
+
+      color: black;
+      &:hover {
+        cursor: pointer;
+      }
+}
+    }
+}

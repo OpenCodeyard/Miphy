@@ -1,0 +1,40 @@
+.homepage {
+    width: 500px;
+    height: 500px;
+    padding: 2rem;
+    background: rgb(13, 14, 94);
+    background: linear-gradient(140deg, rgb(149, 68, 204) 0%, rgb(21, 128, 155) 35%, rgb(121, 148, 236) 100%);
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+    border-radius: 5px;
+    input {
+      height: 50px;
+      width: 80%;
+      background-color: #a1b4f3;
+      border: none;
+      padding-left: 1rem;
+      border-radius: 5px;
+      color: #f7f5f0; 
+      &:focus {
+        outline: none;
+      }
+    }
+    .buttons{
+      justify-items: center;
+      flex-direction: column;
+    button {
+      font-size: 1rem;
+      padding: 0.5rem 1rem 0.5rem 1rem;
+      width: auto;
+      border: none;
+      background-color: #f5cf9e;
+      border-radius: 5px;
+      margin-right: 35px;
+      color: black;
+      &:hover {
+        cursor: pointer;
+      }
+    }
+  }
+  }

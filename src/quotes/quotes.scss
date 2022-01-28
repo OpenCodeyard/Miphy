@@ -1,0 +1,26 @@
+.incoming {
+      text-overflow: auto;
+      align-items: center;
+     min-height: 500px;
+     padding: 1rem;
+    width: 450px;
+    flex-direction: column;
+    display: flex;
+    margin-right: 12rem;
+    justify-content: center;
+
+      p {  
+        font-size: 1.5rem;
+        padding: 1.2rem;
+        margin-top: 0.5rem;
+        border-radius: 5px;
+        background-color: rgba(0, 0, 0, 0.4);
+        text-overflow: auto;
+      }
+      .name{
+        font-size: 1.2rem;
+        color :rgb(247, 232, 232);
+        font-style: italic;
+        font-weight: 500;
+      }
+    }
