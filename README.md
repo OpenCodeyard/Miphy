@@ -36,8 +36,6 @@ This application is made using react and node js. Therefore to run this applicat
 </br>
 
 ## If You Wish To See How The App Looks and Works : 🎬
-Checkout : https://miphy.azurewebsites.net
-<br/>
 Youtube : https://youtu.be/KpIMb-UvBWU
 </br></br>
 
