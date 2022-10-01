@@ -3,7 +3,22 @@
   <img src="https://github.com/HVbajoria/Miphy/blob/main/src/welcome/logo.png" width="250" alt="logo" >
  </p>
  </br>
- 
+
+This repo contains source code for the Miphy app.
+
+<br>
+
+## We are participating in Hacktoberfest 2022
+   * Check [Contributing.md](https://github.com/OpenCodeyard/ocyclient/blob/dev/CONTRIBUTING.md) for guidelines on contributing to this repo.
+   * Check [https://hacktoberfest.com/participation/] for rules and details about hacktoberfest
+   * Get 4 pr merged and win goodies from Hacktobefest team
+   
+<p align="center">
+<br>
+  <a href="https://hacktoberfest.com/"><img width="600" height="300" src="https://camo.githubusercontent.com/adfb41a5209d18a5549b6bdb2c0fce42abc22e1956d75c75dcf3e9f667401173/68747470733a2f2f692e696d6775722e636f6d2f65633538634b492e6a7067"></a>
+  <br>
+</p>
+
 ## About The App :
 **Deepresion. Loneliness. Stress.** 😞</br>
 This words have become common in our society and negative emotions that is taking away the spark and brightness present in us especially suring the lockdown period. It makes the person feel low and depressed making self love much more important. 🧍:heart: </br>
@@ -39,4 +54,19 @@ This application is made using react and node js. Therefore to run this applicat
 Youtube : https://youtu.be/KpIMb-UvBWU
 </br></br>
 
+## How to Contribute?
+Check [Contributing.md](https://github.com/OpenCodeyard/Miphy/blob/main/CONTRIBUTING.md) for guidelines on contributing to this repo.
+
+## Contact Us
+
+&emsp; If you have a question, please feel free to contact us through [email](mailto:hvbajoria@hotmail.com). You can join my community at [Devorld](https://chat.whatsapp.com/DX7GdmxeVuZEgEKjx4yZND).
+
+<br><br>
+
 ## Hope Miphy Helps You Get Rid Of Negative Emotions And Find Self Love and Peace You Were Missing. ❤️
+
+
+<p align="center">
+  Made with ❤️ by <a href="https://github.com/HVbajoria"> Harshavardhan Bajoria </a>
+  <br>
+</p>
