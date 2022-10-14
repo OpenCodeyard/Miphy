@@ -1,3 +1,4 @@
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/OpenCodeyard/Miphy)
 # Miphy - Mind Wellness With Nature ❤️
 <p align="center">
   <img src="https://github.com/HVbajoria/Miphy/blob/main/src/welcome/logo.png" width="250" alt="logo" >
