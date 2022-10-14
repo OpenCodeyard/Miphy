@@ -11,3 +11,42 @@ $backgroundColor: #282b34;
 $redColor: #ff1e56;
 $yellowColor: #ffac41;
 $greyColor: #2d343e;
+
+
+@media (max-width:1300px) and (min-width:660px) {
+  .App{
+    display: flex;
+    flex-direction: column;
+  }
+  .App .left {
+    order: 1;
+    margin-top: 10%;
+  }
+  .App .right {
+   order: 2;
+  }
+  .incoming {
+    width: 400px;
+    position: relative;
+    top: 20%;
+  }
+}
+
+@media (max-width:680px) and (min-width:340px) {
+  .App{
+    display: flex;
+    flex-direction: column;
+  }
+  .App .left {
+    order: 1;
+    margin-top: 10%;
+  }
+  .App .right {
+   order: 2;
+  }
+  .incoming {
+    width: 300px;
+    position: relative;
+    top: 10%;
+  }
+}
