@@ -67,7 +67,7 @@ Check [Contributing.md](https://github.com/OpenCodeyard/Miphy/blob/main/CONTRIBU
 
 ## Hope Miphy Helps You Get Rid Of Negative Emotions And Find Self Love and Peace You Were Missing. ❤️
 
-<p align="center"> <img src=https://badges.frapsoft.com/os/v2/open-source.svg?v=103>
+<p> <img src=https://badges.frapsoft.com/os/v2/open-source.svg?v=103>
 
 <img src=https://img.shields.io/badge/License-MIT-yellow.svg> </p>
 
