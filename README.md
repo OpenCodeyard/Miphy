@@ -1,5 +1,4 @@
-<p align="center"> <img src=https://badges.frapsoft.com/os/v2/open-source.svg?v=103>
-<img src=https://img.shields.io/badge/License-MIT-yellow.svg> </p>
+
 
 # Miphy - Mind Wellness With Nature ❤️
 <p align="center">
@@ -68,6 +67,9 @@ Check [Contributing.md](https://github.com/OpenCodeyard/Miphy/blob/main/CONTRIBU
 
 ## Hope Miphy Helps You Get Rid Of Negative Emotions And Find Self Love and Peace You Were Missing. ❤️
 
+<p align="center"> <img src=https://badges.frapsoft.com/os/v2/open-source.svg?v=103>
+
+<img src=https://img.shields.io/badge/License-MIT-yellow.svg> </p>
 
 <p align="center">
   Made with ❤️ by <a href="https://github.com/HVbajoria"> Harshavardhan Bajoria </a>
