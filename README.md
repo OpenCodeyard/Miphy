@@ -1,3 +1,6 @@
+<p align="center"> <img src=https://badges.frapsoft.com/os/v2/open-source.svg?v=103>
+<img src=https://img.shields.io/badge/License-MIT-yellow.svg> </p>
+
 # Miphy - Mind Wellness With Nature ❤️
 <p align="center">
   <img src="https://github.com/HVbajoria/Miphy/blob/main/src/welcome/logo.png" width="250" alt="logo" >
