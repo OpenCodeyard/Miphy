@@ -148,6 +148,7 @@ export default function App() {
         top: 5%;
         left:-15%;
         transform: scale(0.4);
+        margin-top:50px;
       }
       .container {
         width: 320px;
