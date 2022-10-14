@@ -51,6 +51,14 @@ export default function App() {
       flex-direction:column;
       align-items:center;
     }
+    html,body{
+      width: 100%;
+      height: 100%;
+      margin:0;
+      padding:0;
+      overflow-x:hidden;
+      overflow-y:hidden;
+    }
     .container {
       width: 660px;
       display: grid;
@@ -114,7 +122,46 @@ export default function App() {
     .front {
       background-image: url(https://images.unsplash.com/photo-1558591710-4b4a1ae0f04d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1887&q=80);
     }
+
+    @media (max-width:1300px) and (min-width:660px) {
+      html,body{
+        width: 100%;
+        height: 100%;
+        margin:0;
+        padding:0;
+        overflow-x:hidden;
+        overflow-y:hidden;
+      }
+      #cards {
+        width: 530px;
+        position:absolute;
+        top: 11%;
+        left: 15%;
+        transform: scale(0.4);
+      }
+    }
+
+    @media (max-width:680px) and (min-width:340px) {
+      #cards {
+        width: 530px;
+        position:absolute;
+        top: 5%;
+        left:-15%;
+        transform: scale(0.4);
+      }
+      .container {
+        width: 320px;
+        display: grid;
+        align-items: center;
+        margin-bottom: 20px;
+        margin-right: 64px;
+        margin-left: 0px;
+        flex-direction:column;
+        justify-content: center;
+      }
+    }
   `}
+
 </style>
       </div>
 
